@@ -1,0 +1,23 @@
+[33mcommit 80fca61863c1960ee5ff0f731b408feeebc9d340[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Flounder <testy@test.com>
+Date:   Sun Jan 19 22:26:12 2020 -0600
+
+    Add Norwegian greetings
+
+[33mcommit 1dc11eb569bb83288eb63875844051bed05d33d4[m
+Author: Flounder <testy@test.com>
+Date:   Sun Jan 19 22:23:49 2020 -0600
+
+    Create goodbye.txt
+
+[33mcommit 738e74e14d681e9f18731f3899278bed7595fcb4[m
+Author: Flounder <testy@test.com>
+Date:   Sun Jan 19 22:20:09 2020 -0600
+
+     Added hello in French
+
+[33mcommit d5cb34cbf6782320a5299fe3155b7dbecd5de99f[m
+Author: Flounder <testy@test.com>
+Date:   Sun Jan 19 22:17:35 2020 -0600
+
+    Create hello.txt
